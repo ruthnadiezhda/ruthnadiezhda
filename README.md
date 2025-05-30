@@ -13,7 +13,9 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Quechua
 
 ## Hobbies
+- Traveling 
 - Dancing
+- Singing 
 - Watching movies
 - Listening to music
 
