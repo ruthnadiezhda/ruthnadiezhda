@@ -20,8 +20,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Listening to music
 
 ## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and knowledge.
 
 ## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+- Back-End: Proficient in Java, I bring to the table a strong understanding due to my undergraduate studies in Telecoms Engineering.
+- Front-End: My expertise in HTML, CSS allows me to create interactive and user-friendly interfaces. I want to explore more about this path and try new technologies. 
